@@ -1,6 +1,5 @@
 - 👋 Hi, I’m shim.
-- 👀 I’m interested in django and web development 
-- 🌱 I’m currently learning django, python
+- 🌱 I’m currently learning data science, python
 - 📫 you can be in touch with me with: dreaminwinter1999@gmail.com
 -  Pronouns: she
 
